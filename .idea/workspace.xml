@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2892a109-f1c6-4114-8b9f-3a221b9203f5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Hello.java" afterDir="false" />
-    </list>
+    <list default="true" id="2892a109-f1c6-4114-8b9f-3a221b9203f5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +56,7 @@
       <workItem from="1692574212588" duration="58000" />
       <workItem from="1692574642088" duration="19000" />
       <workItem from="1692574674826" duration="165000" />
-      <workItem from="1692574860189" duration="1331000" />
+      <workItem from="1692574860189" duration="2178000" />
     </task>
     <task id="LOCAL-00001" summary="added Hello.Java">
       <option name="closed" value="true" />
@@ -76,7 +74,23 @@
       <option name="project" value="LOCAL" />
       <updated>1692575824989</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="changes for push">
+      <option name="closed" value="true" />
+      <created>1692576222748</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1692576222748</updated>
+    </task>
+    <task id="LOCAL-00004" summary="changes for push">
+      <option name="closed" value="true" />
+      <created>1692576269674</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692576269674</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,7 +110,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added Hello.Java" />
     <MESSAGE value="some updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="some updates" />
+    <MESSAGE value="changes for push" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes for push" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
